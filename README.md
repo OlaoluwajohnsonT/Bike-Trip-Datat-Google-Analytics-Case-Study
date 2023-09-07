@@ -10,7 +10,7 @@ Cyclistic is a bike-share company based in Chicago with the aim of maximizing an
 
 # Data Sources
 For this analysis, we utilized Cyclistic's historical trip data, which is publicly available and contains valuable insights into customer behavior.
-
+Download the data here: https://divvy-tripdata.s3.amazonaws.com/index.html
 # Data Preparation
 
 # Data Collection
