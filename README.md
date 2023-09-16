@@ -1,4 +1,4 @@
-# Bike-Trip-Datat-Google-Analytics-Case-Study
+# Bike-Trip-Data-Google-Analytics-Case-Study
 Analysing a Cyclist Historical Data to Develop a Marketing Strategic Decisions
 
 In this report, I analyze the usage patterns of Cyclistic's bike-share program to understand the differences between annual members and casual riders. The objective is to provide insights that will inform the development of a marketing strategy aimed at converting casual riders into annual members.
