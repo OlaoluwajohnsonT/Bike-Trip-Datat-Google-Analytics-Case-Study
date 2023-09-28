@@ -22,6 +22,9 @@ The data was structured in a way that allowed us to perform meaningful analysis 
 Data Credibility and Verification
 We assessed the credibility of the data, addressed potential biases, and verified its integrity.
 
+[Click here](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study/blob/main/Tripdata.ipynb) to assess the Project Using Jupyter Notebook
+[CLICK HERE](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study/blob/main/Trip%20Report.pdf) to assess the report using Power Bi
+
 Tools
 Python: Cleaning and Preprocessing
 Power Bi: Visualisation
