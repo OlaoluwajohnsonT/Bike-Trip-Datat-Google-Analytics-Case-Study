@@ -5,7 +5,7 @@ In this report, I analyze the usage patterns of Cyclistic's bike-share program t
 
 # Introduction
 
-#Background and Objectives
+# Background and Objectives
 Cyclistic is a bike-share company based in Chicago with the aim of maximizing annual memberships. The marketing team is interested in understanding how casual riders and annual members use Cyclistic bikes differently. This analysis will provide the foundation for a marketing strategy to convert casual riders into annual members.
 
 # Data Sources
